@@ -24,6 +24,10 @@
             </tr>
         </table>
     </form>
+
+    <form action="/myrequest">
+        <td><input type="submit" value="Submit"></td>
+    </form>
 </div>
 
 </body>

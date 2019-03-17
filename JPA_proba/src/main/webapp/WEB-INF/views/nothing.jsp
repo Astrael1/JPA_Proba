@@ -7,7 +7,7 @@
     <title>Spring Boot</title>
 </head>
 <body>
-<h1>There's nothing at all!</h1>
+<h1>${message}</h1>
 <hr>
 
 </body>
